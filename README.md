@@ -1,4 +1,4 @@
-Pokémon GM
+Pokémon GM - 
 O Pokémon GM é um aplicativo interativo baseado em texto onde você assume o papel de Game Master (GM), controlando as aventuras, os desafios e os encontros que o protagonista enfrentará em sua jornada pelo mundo Pokémon. Este aplicativo interativo baseado em texto oferece uma plataforma única para criar histórias dinâmicas, permitindo que você guie o jogador através de um universo repleto de descobertas, batalhas e mistérios.. Desenvolvido com a biblioteca Kivy para Python, este aplicativo oferece uma experiência rica em narrativas, permitindo que os jogadores façam escolhas que influenciam o curso de sua jornada.
 
 Recursos:
